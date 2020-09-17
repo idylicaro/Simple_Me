@@ -40,3 +40,27 @@ body {
   }
   
 p {font-size: 16px;}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Linkedin */
+.fa-linkedin-in {
+  background: #55ACEE;
+  color: white;
+}
+.linkedin-logo{
+  height: 50px;
+  width: 50px;
+}
